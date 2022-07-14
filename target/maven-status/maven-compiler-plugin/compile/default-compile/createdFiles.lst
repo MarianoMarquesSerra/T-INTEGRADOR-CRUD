@@ -1,0 +1,4 @@
+model\Vinilos.class
+web\ServletControlador.class
+data\VinilosDAO.class
+data\Conexion.class
